@@ -8,4 +8,5 @@
 -  https://doi.org/10.1115/1.4053469
 
 #### Tread Pattern generating process
+
 ![Animation2](https://github.com/dlt3/Generative-AI/assets/68214187/c661979a-cf9b-4497-ae11-28baaa68a5fc)
