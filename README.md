@@ -7,4 +7,4 @@
 #### Reference
 -  https://doi.org/10.1115/1.4053469
 
-https://drive.google.com/file/d/1UyqpOuDSaIEyneu7slRL0jssvmJ38qd3/view?usp=drive_link
+![Animation2](https://github.com/dlt3/Generative-AI/assets/68214187/c661979a-cf9b-4497-ae11-28baaa68a5fc)
